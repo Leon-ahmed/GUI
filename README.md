@@ -1,13 +1,13 @@
 # GUI
 
 ## Overview
-This project is a simple **Java Swing GUI application** that demonstrates basic concepts of **GUI development, event handling, and custom drawing**.  
+This program is a simple **Java Swing GUI application** that demonstrates basic concepts of **GUI development, event handling, and custom drawing**.  
 The application displays a window with two buttons—**Draw Circle** and **Clear**—along with a drawing panel.
 
 When the user clicks **Draw Circle**, a circle is drawn inside the panel.  
 When the user clicks **Clear**, the panel is reset to a blank state.
 
-The source code was decompiled from a `.class` file using the **FernFlower decompiler (IntelliJ IDEA)**.
+
 
 ---
 
@@ -40,9 +40,10 @@ The source code was decompiled from a `.class` file using the **FernFlower decom
 ## How to Run
 1. Ensure Java is installed on your system.
 2. Compile the program:
-   ```bash
+   ```
    javac Circle.java
-```
-Run the program:
-    ```bash
+   ```
+3. Run the program:
+    ```
     java Circle
+    ```
